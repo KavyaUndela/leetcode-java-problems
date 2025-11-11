@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KavyaUndela/leetcode-python/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KavyaUndela/leetcode-python/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/KavyaUndela/leetcode-python/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Simulation
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KavyaUndela/leetcode-python/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
