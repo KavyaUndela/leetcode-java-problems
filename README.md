@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KavyaUndela/leetcode-python/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/KavyaUndela/leetcode-python/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/KavyaUndela/leetcode-python/tree/master/0035-search-insert-position) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KavyaUndela/leetcode-python/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/KavyaUndela/leetcode-python/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Linked List
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KavyaUndela/leetcode-python/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/KavyaUndela/leetcode-python/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
