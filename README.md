@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/KavyaUndela/leetcode-python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/KavyaUndela/leetcode-python/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/KavyaUndela/leetcode-python/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/KavyaUndela/leetcode-python/tree/master/0015-3sum) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/KavyaUndela/leetcode-python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/KavyaUndela/leetcode-python/tree/master/0035-search-insert-position) |
 ## Dynamic Programming
 |  |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/KavyaUndela/leetcode-python/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0088-merge-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/KavyaUndela/leetcode-python/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
