@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/KavyaUndela/leetcode-python/tree/master/0013-roman-to-integer) |
 | [0782-jewels-and-stones](https://github.com/KavyaUndela/leetcode-python/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/KavyaUndela/leetcode-python/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KavyaUndela/leetcode-python/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/KavyaUndela/leetcode-python/tree/master/0013-roman-to-integer) |
 | [0782-jewels-and-stones](https://github.com/KavyaUndela/leetcode-python/tree/master/0782-jewels-and-stones) |
 ## Array
 |  |
@@ -24,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KavyaUndela/leetcode-python/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/KavyaUndela/leetcode-python/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
