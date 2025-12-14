@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/KavyaUndela/leetcode-python/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/KavyaUndela/leetcode-python/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KavyaUndela/leetcode-python/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0088-merge-sorted-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KavyaUndela/leetcode-python/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KavyaUndela/leetcode-python/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KavyaUndela/leetcode-python/tree/master/0035-search-insert-position) |
 ## Dynamic Programming
 |  |
