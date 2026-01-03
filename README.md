@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KavyaUndela/leetcode-python/tree/master/0005-longest-palindromic-substring) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/KavyaUndela/leetcode-python/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Greedy
 |  |
 | ------- |
