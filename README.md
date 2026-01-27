@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/KavyaUndela/leetcode-python/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/KavyaUndela/leetcode-python/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/KavyaUndela/leetcode-python/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/KavyaUndela/leetcode-python/tree/master/0151-reverse-words-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/KavyaUndela/leetcode-python/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/KavyaUndela/leetcode-python/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KavyaUndela/leetcode-python/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/KavyaUndela/leetcode-python/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/KavyaUndela/leetcode-python/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/KavyaUndela/leetcode-python/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KavyaUndela/leetcode-python/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/KavyaUndela/leetcode-python/tree/master/0876-middle-of-the-linked-list) |
 ## Linked List
