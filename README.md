@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/KavyaUndela/leetcode-python/tree/master/0219-contains-duplicate-ii) |
 | [0463-island-perimeter](https://github.com/KavyaUndela/leetcode-python/tree/master/0463-island-perimeter) |
+| [0724-find-pivot-index](https://github.com/KavyaUndela/leetcode-python/tree/master/0724-find-pivot-index) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/KavyaUndela/leetcode-python/tree/master/1390-four-divisors) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KavyaUndela/leetcode-python/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KavyaUndela/leetcode-python/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KavyaUndela/leetcode-python/tree/master/0232-implement-queue-using-stacks) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/KavyaUndela/leetcode-python/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
