@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/KavyaUndela/leetcode-python/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/KavyaUndela/leetcode-python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KavyaUndela/leetcode-python/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/KavyaUndela/leetcode-python/tree/master/0782-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Array
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/KavyaUndela/leetcode-python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KavyaUndela/leetcode-python/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/KavyaUndela/leetcode-python/tree/master/0463-island-perimeter) |
 | [0724-find-pivot-index](https://github.com/KavyaUndela/leetcode-python/tree/master/0724-find-pivot-index) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KavyaUndela/leetcode-python/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/KavyaUndela/leetcode-python/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KavyaUndela/leetcode-python/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0268-missing-number) |
 | [1390-four-divisors](https://github.com/KavyaUndela/leetcode-python/tree/master/1390-four-divisors) |
 ## Trie
 |  |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KavyaUndela/leetcode-python/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/KavyaUndela/leetcode-python/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/KavyaUndela/leetcode-python/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -131,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KavyaUndela/leetcode-python/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/KavyaUndela/leetcode-python/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
