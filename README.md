@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KavyaUndela/leetcode-python/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/KavyaUndela/leetcode-python/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KavyaUndela/leetcode-python/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/KavyaUndela/leetcode-python/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KavyaUndela/leetcode-python/tree/master/0067-add-binary) |
 | [1390-four-divisors](https://github.com/KavyaUndela/leetcode-python/tree/master/1390-four-divisors) |
 ## Trie
