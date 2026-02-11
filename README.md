@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KavyaUndela/leetcode-python/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/KavyaUndela/leetcode-python/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KavyaUndela/leetcode-python/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/KavyaUndela/leetcode-python/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/KavyaUndela/leetcode-python/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/KavyaUndela/leetcode-python/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KavyaUndela/leetcode-python/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/KavyaUndela/leetcode-python/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/KavyaUndela/leetcode-python/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/KavyaUndela/leetcode-python/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/KavyaUndela/leetcode-python/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/KavyaUndela/leetcode-python/tree/master/0876-middle-of-the-linked-list) |
 ## Linked List
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KavyaUndela/leetcode-python/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/KavyaUndela/leetcode-python/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0509-fibonacci-number) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/KavyaUndela/leetcode-python/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Greedy
