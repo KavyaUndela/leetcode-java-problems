@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KavyaUndela/leetcode-python/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KavyaUndela/leetcode-python/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0509-fibonacci-number) |
 | [1390-four-divisors](https://github.com/KavyaUndela/leetcode-python/tree/master/1390-four-divisors) |
 ## Trie
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/KavyaUndela/leetcode-python/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/KavyaUndela/leetcode-python/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KavyaUndela/leetcode-python/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KavyaUndela/leetcode-python/tree/master/0005-longest-palindromic-substring) |
+| [0509-fibonacci-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0509-fibonacci-number) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/KavyaUndela/leetcode-python/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Greedy
 |  |
@@ -218,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KavyaUndela/leetcode-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
