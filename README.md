@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KavyaUndela/leetcode-python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KavyaUndela/leetcode-python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KavyaUndela/leetcode-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0189-rotate-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KavyaUndela/leetcode-python/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KavyaUndela/leetcode-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/KavyaUndela/leetcode-python/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/KavyaUndela/leetcode-python/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0509-fibonacci-number) |
