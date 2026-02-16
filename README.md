@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KavyaUndela/leetcode-python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KavyaUndela/leetcode-python/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/KavyaUndela/leetcode-python/tree/master/0380-insert-delete-getrandom-o1) |
 | [0782-jewels-and-stones](https://github.com/KavyaUndela/leetcode-python/tree/master/0782-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Array
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/KavyaUndela/leetcode-python/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/KavyaUndela/leetcode-python/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/KavyaUndela/leetcode-python/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/KavyaUndela/leetcode-python/tree/master/0380-insert-delete-getrandom-o1) |
 | [0463-island-perimeter](https://github.com/KavyaUndela/leetcode-python/tree/master/0463-island-perimeter) |
 | [0724-find-pivot-index](https://github.com/KavyaUndela/leetcode-python/tree/master/0724-find-pivot-index) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KavyaUndela/leetcode-python/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/KavyaUndela/leetcode-python/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0509-fibonacci-number) |
 | [1390-four-divisors](https://github.com/KavyaUndela/leetcode-python/tree/master/1390-four-divisors) |
 ## Trie
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KavyaUndela/leetcode-python/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KavyaUndela/leetcode-python/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/KavyaUndela/leetcode-python/tree/master/0380-insert-delete-getrandom-o1) |
 ## Queue
 |  |
 | ------- |
@@ -261,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/KavyaUndela/leetcode-python/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/KavyaUndela/leetcode-python/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
