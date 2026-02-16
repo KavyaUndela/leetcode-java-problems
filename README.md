@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/KavyaUndela/leetcode-python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KavyaUndela/leetcode-python/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/KavyaUndela/leetcode-python/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/KavyaUndela/leetcode-python/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/KavyaUndela/leetcode-python/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/KavyaUndela/leetcode-python/tree/master/0463-island-perimeter) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/KavyaUndela/leetcode-python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KavyaUndela/leetcode-python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/KavyaUndela/leetcode-python/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/KavyaUndela/leetcode-python/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0509-fibonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/KavyaUndela/leetcode-python/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
