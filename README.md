@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KavyaUndela/leetcode-python/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/KavyaUndela/leetcode-python/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/KavyaUndela/leetcode-python/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/KavyaUndela/leetcode-python/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/KavyaUndela/leetcode-python/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/KavyaUndela/leetcode-python/tree/master/0066-plus-one) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KavyaUndela/leetcode-python/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KavyaUndela/leetcode-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/KavyaUndela/leetcode-python/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KavyaUndela/leetcode-python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/KavyaUndela/leetcode-python/tree/master/0125-valid-palindrome) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KavyaUndela/leetcode-python/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/KavyaUndela/leetcode-python/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/KavyaUndela/leetcode-python/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/KavyaUndela/leetcode-python/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KavyaUndela/leetcode-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KavyaUndela/leetcode-python/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/KavyaUndela/leetcode-python/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KavyaUndela/leetcode-python/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KavyaUndela/leetcode-python/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KavyaUndela/leetcode-python/tree/master/0145-binary-tree-postorder-traversal) |
@@ -276,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/KavyaUndela/leetcode-python/tree/master/0380-insert-delete-getrandom-o1) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/KavyaUndela/leetcode-python/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
