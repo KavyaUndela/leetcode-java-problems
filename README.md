@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/KavyaUndela/leetcode-python/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KavyaUndela/leetcode-python/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/KavyaUndela/leetcode-python/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/KavyaUndela/leetcode-python/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/KavyaUndela/leetcode-python/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/KavyaUndela/leetcode-python/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/KavyaUndela/leetcode-python/tree/master/1205-defanging-an-ip-address) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KavyaUndela/leetcode-python/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KavyaUndela/leetcode-python/tree/master/0380-insert-delete-getrandom-o1) |
+| [0389-find-the-difference](https://github.com/KavyaUndela/leetcode-python/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/KavyaUndela/leetcode-python/tree/master/0782-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Array
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/KavyaUndela/leetcode-python/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/KavyaUndela/leetcode-python/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/KavyaUndela/leetcode-python/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/KavyaUndela/leetcode-python/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/KavyaUndela/leetcode-python/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/KavyaUndela/leetcode-python/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
