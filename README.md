@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KavyaUndela/leetcode-python/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/KavyaUndela/leetcode-python/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/KavyaUndela/leetcode-python/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/KavyaUndela/leetcode-python/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0782-jewels-and-stones](https://github.com/KavyaUndela/leetcode-python/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/KavyaUndela/leetcode-python/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KavyaUndela/leetcode-python/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/KavyaUndela/leetcode-python/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KavyaUndela/leetcode-python/tree/master/0380-insert-delete-getrandom-o1) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/KavyaUndela/leetcode-python/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0509-fibonacci-number) |
 | [1390-four-divisors](https://github.com/KavyaUndela/leetcode-python/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/KavyaUndela/leetcode-python/tree/master/1486-xor-operation-in-an-array) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/KavyaUndela/leetcode-python/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/KavyaUndela/leetcode-python/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/KavyaUndela/leetcode-python/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/KavyaUndela/leetcode-python/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1486-xor-operation-in-an-array](https://github.com/KavyaUndela/leetcode-python/tree/master/1486-xor-operation-in-an-array) |
 ## Sliding Window
 |  |
