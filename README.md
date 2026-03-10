@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KavyaUndela/leetcode-python/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/KavyaUndela/leetcode-python/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KavyaUndela/leetcode-python/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KavyaUndela/leetcode-python/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/KavyaUndela/leetcode-python/tree/master/0190-reverse-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/KavyaUndela/leetcode-python/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/KavyaUndela/leetcode-python/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/KavyaUndela/leetcode-python/tree/master/0338-counting-bits) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/KavyaUndela/leetcode-python/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KavyaUndela/leetcode-python/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KavyaUndela/leetcode-python/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/KavyaUndela/leetcode-python/tree/master/0222-count-complete-tree-nodes) |
 | [0669-trim-a-binary-search-tree](https://github.com/KavyaUndela/leetcode-python/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/KavyaUndela/leetcode-python/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KavyaUndela/leetcode-python/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KavyaUndela/leetcode-python/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/KavyaUndela/leetcode-python/tree/master/0222-count-complete-tree-nodes) |
 | [0669-trim-a-binary-search-tree](https://github.com/KavyaUndela/leetcode-python/tree/master/0669-trim-a-binary-search-tree) |
 ## Design
 |  |
