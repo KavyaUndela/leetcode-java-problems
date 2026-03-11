@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/KavyaUndela/leetcode-python/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/KavyaUndela/leetcode-python/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/KavyaUndela/leetcode-python/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1009-complement-of-base-10-integer](https://github.com/KavyaUndela/leetcode-python/tree/master/1009-complement-of-base-10-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/KavyaUndela/leetcode-python/tree/master/1486-xor-operation-in-an-array) |
 ## Sliding Window
 |  |
