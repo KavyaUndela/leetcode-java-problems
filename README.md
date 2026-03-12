@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KavyaUndela/leetcode-python/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/KavyaUndela/leetcode-python/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/KavyaUndela/leetcode-python/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KavyaUndela/leetcode-python/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KavyaUndela/leetcode-python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0463-island-perimeter](https://github.com/KavyaUndela/leetcode-python/tree/master/0463-island-perimeter) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/KavyaUndela/leetcode-python/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/KavyaUndela/leetcode-python/tree/master/0463-island-perimeter) |
 ## Matrix
 |  |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/KavyaUndela/leetcode-python/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KavyaUndela/leetcode-python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/KavyaUndela/leetcode-python/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/KavyaUndela/leetcode-python/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KavyaUndela/leetcode-python/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KavyaUndela/leetcode-python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/KavyaUndela/leetcode-python/tree/master/0222-count-complete-tree-nodes) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/KavyaUndela/leetcode-python/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KavyaUndela/leetcode-python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/KavyaUndela/leetcode-python/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/KavyaUndela/leetcode-python/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KavyaUndela/leetcode-python/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KavyaUndela/leetcode-python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/KavyaUndela/leetcode-python/tree/master/0222-count-complete-tree-nodes) |
