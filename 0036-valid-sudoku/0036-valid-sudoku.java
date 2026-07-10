@@ -1,23 +1,54 @@
 class Solution {
     public boolean isValidSudoku(char[][] board) {
-        HashSet<String> hs= new HashSet<>();
         for(int row=0;row<9;row++){
             for(int col=0;col<9;col++){
-                char sum= board[row][col];
-                if(sum=='.')continue;
-                String rowKey=sum+"inrow"+row;
-                String colKey=sum+"incol"+col;
-                 String boxKey = sum + " in box " + (row / 3) * 3 + (col / 3);
-
-                
-                if (!hs.add(rowKey) ||
-                    !hs.add(colKey) ||
-                    !hs.add(boxKey)) {
-                    return false;
+                if(board[row][col]!='.'){
+                    if(is_valid(board,row,col)==false){
+                        return false;
+                    }
                 }
             }
         }
         return true;
+    }
+    private boolean is_valid(char[][] board, int row,int col){
+
+        
+        for(int i=0;i<9;i++){
+         
+            if(col!=i && board[row][col]==board[row][i]){
+                return false;
+            }
+        }
+
+        
+        for(int i=0;i<9;i++){
             
+            if(row!=i && board[row][col]==board[i][col]){
+                return false;
+            }
+        }
+        int r=(row/3)*3;
+        int c=(col/3)*3;
+        for(int i=0;i<3;i++){
+            for(int j=0;j<3;j++){
+                if((row!=r+i && col!=c+j) && board[row][col]==board[r+i][c+j]){
+                    return false;
+                }
+            }
+        }
+
+
+        return true;
     }
 }
+
+
+
+
+
+
+
+
+
+
