@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/KavyaUndela/leetcode-python/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KavyaUndela/leetcode-python/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/KavyaUndela/leetcode-python/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/KavyaUndela/leetcode-python/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/KavyaUndela/leetcode-python/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/KavyaUndela/leetcode-python/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/KavyaUndela/leetcode-python/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/KavyaUndela/leetcode-python/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KavyaUndela/leetcode-python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KavyaUndela/leetcode-python/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/KavyaUndela/leetcode-python/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/KavyaUndela/leetcode-python/tree/master/0463-island-perimeter) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/KavyaUndela/leetcode-python/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/KavyaUndela/leetcode-python/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/KavyaUndela/leetcode-python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/KavyaUndela/leetcode-python/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KavyaUndela/leetcode-python/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/KavyaUndela/leetcode-python/tree/master/0257-binary-tree-paths) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/KavyaUndela/leetcode-python/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/KavyaUndela/leetcode-python/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KavyaUndela/leetcode-python/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/KavyaUndela/leetcode-python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/KavyaUndela/leetcode-python/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KavyaUndela/leetcode-python/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/KavyaUndela/leetcode-python/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KavyaUndela/leetcode-python/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/KavyaUndela/leetcode-python/tree/master/0669-trim-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/KavyaUndela/leetcode-python/tree/master/0965-univalued-binary-tree) |
@@ -384,4 +388,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/KavyaUndela/leetcode-python/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/KavyaUndela/leetcode-python/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KavyaUndela/leetcode-python/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/KavyaUndela/leetcode-python/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
