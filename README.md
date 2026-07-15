@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/KavyaUndela/leetcode-python/tree/master/0463-island-perimeter) |
 | [0724-find-pivot-index](https://github.com/KavyaUndela/leetcode-python/tree/master/0724-find-pivot-index) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0994-rotting-oranges](https://github.com/KavyaUndela/leetcode-python/tree/master/0994-rotting-oranges) |
 | [1390-four-divisors](https://github.com/KavyaUndela/leetcode-python/tree/master/1390-four-divisors) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KavyaUndela/leetcode-python/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/KavyaUndela/leetcode-python/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -273,12 +274,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KavyaUndela/leetcode-python/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KavyaUndela/leetcode-python/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/KavyaUndela/leetcode-python/tree/master/0965-univalued-binary-tree) |
+| [0994-rotting-oranges](https://github.com/KavyaUndela/leetcode-python/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/KavyaUndela/leetcode-python/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/KavyaUndela/leetcode-python/tree/master/0037-sudoku-solver) |
 | [0463-island-perimeter](https://github.com/KavyaUndela/leetcode-python/tree/master/0463-island-perimeter) |
+| [0994-rotting-oranges](https://github.com/KavyaUndela/leetcode-python/tree/master/0994-rotting-oranges) |
 ## Stack
 |  |
 | ------- |
