@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0509-fibonacci-number) |
 | [1390-four-divisors](https://github.com/KavyaUndela/leetcode-python/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/KavyaUndela/leetcode-python/tree/master/1486-xor-operation-in-an-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/KavyaUndela/leetcode-python/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Trie
 |  |
 | ------- |
@@ -404,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/KavyaUndela/leetcode-python/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/KavyaUndela/leetcode-python/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/KavyaUndela/leetcode-python/tree/master/0257-binary-tree-paths) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/KavyaUndela/leetcode-python/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
