@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/KavyaUndela/leetcode-python/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/KavyaUndela/leetcode-python/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KavyaUndela/leetcode-python/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/KavyaUndela/leetcode-python/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/KavyaUndela/leetcode-python/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0268-missing-number) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/KavyaUndela/leetcode-python/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/KavyaUndela/leetcode-python/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KavyaUndela/leetcode-python/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/KavyaUndela/leetcode-python/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KavyaUndela/leetcode-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KavyaUndela/leetcode-python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/KavyaUndela/leetcode-python/tree/master/0338-counting-bits) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/KavyaUndela/leetcode-python/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0509-fibonacci-number) |
 ## Counting Sort
 |  |
