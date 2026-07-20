@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/KavyaUndela/leetcode-python/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KavyaUndela/leetcode-python/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/KavyaUndela/leetcode-python/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/KavyaUndela/leetcode-python/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KavyaUndela/leetcode-python/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0189-rotate-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KavyaUndela/leetcode-python/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/KavyaUndela/leetcode-python/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/KavyaUndela/leetcode-python/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/KavyaUndela/leetcode-python/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KavyaUndela/leetcode-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KavyaUndela/leetcode-python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/KavyaUndela/leetcode-python/tree/master/0338-counting-bits) |
@@ -412,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KavyaUndela/leetcode-python/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/KavyaUndela/leetcode-python/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
