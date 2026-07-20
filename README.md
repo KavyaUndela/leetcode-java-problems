@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/KavyaUndela/leetcode-python/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KavyaUndela/leetcode-python/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/KavyaUndela/leetcode-python/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/KavyaUndela/leetcode-python/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/KavyaUndela/leetcode-python/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/KavyaUndela/leetcode-python/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KavyaUndela/leetcode-python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/KavyaUndela/leetcode-python/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/KavyaUndela/leetcode-python/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KavyaUndela/leetcode-python/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/KavyaUndela/leetcode-python/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/KavyaUndela/leetcode-python/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KavyaUndela/leetcode-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KavyaUndela/leetcode-python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/KavyaUndela/leetcode-python/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/KavyaUndela/leetcode-python/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/KavyaUndela/leetcode-python/tree/master/0063-unique-paths-ii) |
 | [0463-island-perimeter](https://github.com/KavyaUndela/leetcode-python/tree/master/0463-island-perimeter) |
 | [0994-rotting-oranges](https://github.com/KavyaUndela/leetcode-python/tree/master/0994-rotting-oranges) |
 ## Stack
