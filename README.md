@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/KavyaUndela/leetcode-python/tree/master/0380-insert-delete-getrandom-o1) |
 | [0463-island-perimeter](https://github.com/KavyaUndela/leetcode-python/tree/master/0463-island-perimeter) |
 | [0724-find-pivot-index](https://github.com/KavyaUndela/leetcode-python/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/KavyaUndela/leetcode-python/tree/master/0746-min-cost-climbing-stairs) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/KavyaUndela/leetcode-python/tree/master/0994-rotting-oranges) |
 | [1390-four-divisors](https://github.com/KavyaUndela/leetcode-python/tree/master/1390-four-divisors) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/KavyaUndela/leetcode-python/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/KavyaUndela/leetcode-python/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/KavyaUndela/leetcode-python/tree/master/0746-min-cost-climbing-stairs) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/KavyaUndela/leetcode-python/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Greedy
 |  |
