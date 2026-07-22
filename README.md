@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/KavyaUndela/leetcode-python/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KavyaUndela/leetcode-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/KavyaUndela/leetcode-python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KavyaUndela/leetcode-python/tree/master/0219-contains-duplicate-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KavyaUndela/leetcode-python/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/KavyaUndela/leetcode-python/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KavyaUndela/leetcode-python/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KavyaUndela/leetcode-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KavyaUndela/leetcode-python/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/KavyaUndela/leetcode-python/tree/master/0349-intersection-of-two-arrays) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KavyaUndela/leetcode-python/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KavyaUndela/leetcode-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/KavyaUndela/leetcode-python/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/KavyaUndela/leetcode-python/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KavyaUndela/leetcode-python/tree/master/0349-intersection-of-two-arrays) |
