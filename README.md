@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/KavyaUndela/leetcode-python/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KavyaUndela/leetcode-python/tree/master/0380-insert-delete-getrandom-o1) |
 | [0463-island-perimeter](https://github.com/KavyaUndela/leetcode-python/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/KavyaUndela/leetcode-python/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/KavyaUndela/leetcode-python/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/KavyaUndela/leetcode-python/tree/master/0746-min-cost-climbing-stairs) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KavyaUndela/leetcode-python/tree/master/0961-n-repeated-element-in-size-2n-array) |
